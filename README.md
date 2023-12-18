@@ -20,3 +20,9 @@ We will develop a website that could be used to manage the catalog for a local l
 
 ## Get Started
 
+In the folder where there is the "manage.py" file
+
+type `py manage.py runserver`
+
+And click in the link available in the terminal to access the website
+
